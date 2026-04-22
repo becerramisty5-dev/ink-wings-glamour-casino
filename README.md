@@ -1,6 +1,6 @@
 # Ink & Wings Casino
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/becerramisty5-dev/ink-wings-glamour-casino)
 
 A modern, full-stack casino web application built with React and Cloudflare Workers. Features a responsive UI with Tailwind CSS and shadcn/ui components, dark/light theme support, sidebar navigation, and a scalable backend using Hono. Designed for high-performance edge computing with seamless deployment to Cloudflare.
 
@@ -90,7 +90,7 @@ This builds the frontend and deploys the Worker + Assets via Wrangler.
 
 Configuration is in `wrangler.jsonc`. Assets are served as SPA with `/api/*` routed to Worker.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/becerramisty5-dev/ink-wings-glamour-casino)
 
 ## Scripts
 
